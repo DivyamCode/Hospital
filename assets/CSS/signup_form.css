@@ -1,0 +1,29 @@
+.form{
+    width: 450px;
+    font-size: x-large;
+    font-style: italic;
+    color: white;
+    background-color:rgb(78, 189, 165) ;
+    
+    
+    height: 750px;
+    margin: 100px ;
+    padding: 12px 20px;
+    margin: 50px 500px;
+    box-sizing: border-box;
+
+}
+.input{
+    font-size:x-large;
+    margin: 20px 35px;
+    height: 35px;
+
+}
+.button{
+    color:white;
+    background-color: rgba(226, 108, 128, 0.897);
+    margin: 10px 140px;
+    height: 35px;
+    width: 100px;
+    stroke-width: 20px;
+}

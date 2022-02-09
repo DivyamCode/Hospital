@@ -1,0 +1,27 @@
+.form{
+    width: 450px;
+    font-size: x-large;
+    font-style: italic;
+    color: navy;
+    
+    
+    height: 425px;
+    margin-top: 10px;
+    padding: 12px 20px;
+    margin: 50px 50px;
+    box-sizing: border-box;
+
+}
+.input{
+    font-size:x-large;
+    margin: 20px 35px;
+    height: 35px;
+
+}
+.button{
+    color:black;
+    background-color: rgb(140, 83, 148);
+    margin: 10px 140px;
+    height: 35px;
+    width: 100px;
+}
